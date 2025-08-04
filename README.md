@@ -36,8 +36,3 @@
 Credit: [AdrianGF3](https://github.com/AdrianGF3)
 
 Last Edited on: 04/08/2024
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
